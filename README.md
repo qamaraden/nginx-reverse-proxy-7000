@@ -1,1 +1,4 @@
-# nginx-reverse-proxy-7000
+# nginx
+
+TODO: Enter the cookbook description here.
+
